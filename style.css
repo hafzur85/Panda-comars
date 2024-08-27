@@ -39,3 +39,21 @@
   border-radius: 10px;
   box-shadow: 5px 5px 10px lightgray
 }
+.card-footer{
+  border-top: none;
+  background-color: white;
+}
+.pric{
+  color: #FF136F;
+}
+#subscribe{
+  background-color: #FCEAe8;
+  height: 300px;
+  border-radius: 10px;
+}
+#subscribe h6{
+  color: lightslategray;
+}
+footer{
+  text-align: center;
+}
